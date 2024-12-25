@@ -1,0 +1,23 @@
+Why golang?
+=>Now a days infrastructure changed quite a lot
+  But programming language still doing single things
+  at once. That's why there being introduced Multi-
+  Threading programming languages. 
+
+
+  Golang is one of the multi threading programming 
+  language.
+
+
+  Concurrency: It is about prevent conflicts
+    since it is a multi-threading programming language
+    then it is doing so many things parallelly. It
+    may create conflicts. That's what it solved
+
+  Characteristics: 
+    * It is simple and readable syntax like python
+    * Efficiency and safety of a lower-level langauge 
+      like c++
+
+  Cross-platform: 
+    It's binary file can run in different os
